@@ -210,7 +210,7 @@ key: handing errors
 
 `error.tsx`, `not-found.tsx`, `notFound()`
 
-## refer to the link
+
 
 [route-groups]: https://nextjs.org/docs/app/building-your-application/routing/route-groups
 [Next.js's_client-side_navigation]: https://nextjs.org/learn/dashboard-app/navigating-between-pages
